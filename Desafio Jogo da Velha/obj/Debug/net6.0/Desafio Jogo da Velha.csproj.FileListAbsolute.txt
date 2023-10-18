@@ -1,0 +1,14 @@
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\bin\Debug\net6.0\Desafio Jogo da Velha.exe
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\bin\Debug\net6.0\Desafio Jogo da Velha.deps.json
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\bin\Debug\net6.0\Desafio Jogo da Velha.runtimeconfig.json
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\bin\Debug\net6.0\Desafio Jogo da Velha.dll
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\bin\Debug\net6.0\Desafio Jogo da Velha.pdb
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha.AssemblyInfoInputs.cache
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha.AssemblyInfo.cs
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha.csproj.CoreCompileInputs.cache
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha.dll
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\obj\Debug\net6.0\refint\Desafio Jogo da Velha.dll
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha.pdb
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha.genruntimeconfig.cache
+C:\Users\a891607\Academia .Net\Exercícios\Desafio Jogo da Velha\obj\Debug\net6.0\ref\Desafio Jogo da Velha.dll
