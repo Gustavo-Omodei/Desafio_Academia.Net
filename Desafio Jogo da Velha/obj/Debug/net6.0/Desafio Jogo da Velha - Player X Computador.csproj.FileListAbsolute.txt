@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\bin\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\bin\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.deps.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\bin\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\bin\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\bin\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\obj\Debug\net6.0\refint\Desafio Jogo da Velha - Player X Computador.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\obj\Debug\net6.0\Desafio Jogo da Velha - Player X Computador.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Academia.Net\Desafio Jogo da Velha\obj\Debug\net6.0\ref\Desafio Jogo da Velha - Player X Computador.dll

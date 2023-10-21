@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\a891607\\.nuget\\packages\\": {}
+    "C:\\Users\\gusta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a891607\\Academia .Net\\Exercícios\\Desafio Jogo da Velha\\Desafio Jogo da Velha.csproj",
-      "projectName": "Desafio Jogo da Velha",
-      "projectPath": "C:\\Users\\a891607\\Academia .Net\\Exercícios\\Desafio Jogo da Velha\\Desafio Jogo da Velha.csproj",
-      "packagesPath": "C:\\Users\\a891607\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a891607\\Academia .Net\\Exercícios\\Desafio Jogo da Velha\\obj\\",
+      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\Academia.Net\\Desafio Jogo da Velha\\Desafio Jogo da Velha - Player X Computador.csproj",
+      "projectName": "Desafio Jogo da Velha - Player X Computador",
+      "projectPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\Academia.Net\\Desafio Jogo da Velha\\Desafio Jogo da Velha - Player X Computador.csproj",
+      "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\Academia.Net\\Desafio Jogo da Velha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a891607\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
