@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\Academia.Net\\Desafio Jogo da Velha\\Desafio Jogo da Velha - Player X Computador.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\Academia.Net\\Desafio Jogo da Velha\\PlayerXComputador\\Desafio Jogo da Velha - Player X Computador.csproj",
       "projectName": "Desafio Jogo da Velha - Player X Computador",
-      "projectPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\Academia.Net\\Desafio Jogo da Velha\\Desafio Jogo da Velha - Player X Computador.csproj",
+      "projectPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\Academia.Net\\Desafio Jogo da Velha\\PlayerXComputador\\Desafio Jogo da Velha - Player X Computador.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\Academia.Net\\Desafio Jogo da Velha\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\Academia.Net\\Desafio Jogo da Velha\\PlayerXComputador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
